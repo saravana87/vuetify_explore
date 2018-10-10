@@ -1,6 +1,6 @@
-# fut-data
+# Vuetify & MongoDB 5 
 
-> Football data
+> Login, Signup using MongoDB & Nuxt Auth
 
 ## Build Setup
 
