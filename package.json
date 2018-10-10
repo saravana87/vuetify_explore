@@ -1,8 +1,8 @@
 {
   "name": "fut-data",
   "version": "1.0.0",
-  "description": "Football data",
-  "author": "Saravanakumar",
+  "description": "Exploring Vuetify and MongoDB 5 features",
+  "author": "Saravanakumar Subramani",
   "private": true,
   "scripts": {
     "dev": "nuxt",
